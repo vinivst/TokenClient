@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  background-color: darkgrey;
+  color: ghostwhite;
+}
+
+.Cards {
+  border-radius: 5px;
+  padding: 2%;
 }
 
 .App-logo {
